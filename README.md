@@ -7,7 +7,7 @@ This project is strictly to be used on Adaro Workshops. **Please do not use this
 
 ``` bash
 # clone the repo
-$ git clone https://github.com/coreui/coreui-free-react-admin-template.git my-project
+$ git clone https://github.com:alvinjulian/Automa-Sample-React.git my-project
 
 # go into app's directory
 $ cd my-project
